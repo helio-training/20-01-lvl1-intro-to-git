@@ -1,0 +1,18 @@
+.movie-content {
+	background: red !important;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;	
+}
+
+#article1 {
+	background: green;
+}
+
+article {
+	background: purple;
+}
+
+#article1 {
+	background: yellow;
+}
