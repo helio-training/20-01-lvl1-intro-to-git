@@ -11,6 +11,9 @@
 
 article {
 	background: purple;
+	border: solid pink;
+        border-width: 10px;
+        border-radius: 5px;
 }
 
 #article1 {
